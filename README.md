@@ -1,2 +1,6 @@
 # UoMPD
-Programming for Designers Specialization
+## Programming for Designers Specialization
+
+In Programming for Designers, you will explore Python programming within a creative context, equipping you with essential computational design skills. Beginning with fundamental programming principles, you will move on to more intricate data structures, leading to the development of practical creative coding projects. Learn how to use the Processing platform, a program that allows designers to create visual, interactive media to meet their project needs. Develop the skills to move from simple to intricate designs, ranging from illustrative shapes and images to animations. Cover procedural best practices for design applications and intelligence navigation, and build a rich understanding of how advanced data structures can be used to create digital environments. 
+
+This course series is tailored for individuals within architecture, graphic design, industrial design, game design and the visual arts interested in integrating programming with graphic creativity. As each course in the series is structured to build on previous course knowledge, Programming for Designers allows you to practice your skills within Python, allowing you to bring your design concepts to life with precision and efficiency.    
